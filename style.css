@@ -9,6 +9,9 @@ body{
     letter-spacing:2px;
     color: aliceblue;
     text-shadow: 0px 4px #3d3838;
+    display:flex ;
+    justify-content:center;
+    align-items:center ;
 }
 
 .func{
